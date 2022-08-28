@@ -70,10 +70,6 @@ local function MakeDraggable(topbarobject, object)
 	)
 end
 
-
-local ui = {}
-
-
 function ui:win()
 
     local fs = false 
